@@ -1,4 +1,5 @@
 #!/usr/bin/python
+##Fonte: https://unix.stackexchange.com/a/498321
 
 import zipfile
 import sys
